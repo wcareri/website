@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>William Careri</title>
+    <link>https://wcareri.com/blog</link>
+    <description>A collection of thoughts while working at the intersection of data, design, and dialogue.</description>
+    <language>en-us</language>
+    <pubDate>Wed, 16 Apr 2025 17:39:00 EDT</pubDate>
+    <lastBuildDate>Wed, 16 Apr 2025 17:39:00 EDT</lastBuildDate>
+
+    <item>
+        <title>Easing the Pace</title>
+        <link>https://wcareri.com/blog/easing-the-pace.html</link>
+        <description>
+            <![CDATA[
+            <p>During your college years and early career, it’s hard to ignore an imaginary, internal clock. Constantly running in the back of your head; not always heard but surely felt. When trying to achieve certain goals, it’s hard not to feel the pressure of always fighting against time.</p>
+            <p>There are expectations in internships to make an impression in the short time you have, getting a case study out of it if you’re lucky. Your first job will have goals you should hit at the 30, 60, and 90-day marks. If you want a promotion out of that entry-level position, the first year will be spent trying to prove yourself more so than veterans around you. The need to impress is thought of outwardly, focusing less so on what you think of yourself and instead center around what others think of you and how much you can achieve in a certain period of time. Maybe there are awards for breakout stars or age-based recognitions, both of which come with cutoff times for when you can earn them.</p>
+            <p>I have spent the majority of my 20s racing against these clocks, constantly trying to prove myself with little regard for whether I was getting any personal satisfaction from it, instead caring about how or if others were satisfied with me. More recently, I’ve been able to ignore the clock and focus on how I perceive my work more so than how others may.</p>
+            <p>The past decade has been spent striving for what was next. Completed internship? Great, go get another and prove yourself again. Got a job? Congrats, now work even harder to keep it. Others going to grad school? Well, go get a masters too and finish at the top of your cohort.</p>
+            <p>Each of these steps were accompanied by an imaginary timer I put there myself. Now, I’m feeling that timer less and less. I no longer feel the need to expand my résumé in terms of quantity, instead concentrating on doing well in my current position while also aiming for personal satisfaction in the work I’m doing. I’m able to sit back, take a deep breath, and just appreciate where I’ve come from and how I got here.</p>
+            ]]>
+        </description>
+        <pubDate>Mon, 17 Mar 2025 00:00:00 EST</pubDate>
+        <guid isPermaLink="true">https://wcareri.com/blog/easing-the-pace.html</guid>
+    </item>
+	
+	<item>
+        <title>Red Pen Reflections</title>
+        <link>https://wcareri.com/blog/red-pen-reflections.html</link>
+        <description>
+            <![CDATA[
+            <p>It’s been roughly one year since I took over as Managing Editor of <a href="https://nightingaledvs.com" target="_blank"><i>Nightingale</i></a>, the Journal of the <a href="https://datavisualizationsociety.org" target="_blank">Data Visualization Society</a>. In that time, I’ve worked with more than 60 contributors to produce nearly 100 digital articles.</p>
+		<p>Two things you should know about where I was one year prior to the time of writing this, when I first took the role over from the extremely talented <a href="https://www.emilybarone.com/" target="_blank">Emily Barone</a>:</p>
+		
+		<ol>
+	   	<li>I had never worked as an editor before</li>
+		<li>I had only entered the field of data visualization two years prior</li>
+	   </ol>
+	   
+	   <h2>How I came into the role</h2>
+	   
+	   <p>My professional background is largely in communications—both written and visual. I have been paid for my writing in some capacity since 2016, and the rest of the time has been spent designing brand assets—logos and websites—and developing public relations and marketing campaigns. The whole time, I was the one being edited; I had not once picked up the metaphorical red pen for anyone other than myself.</p>	   
+	   <p>It always causes a chuckle when I say this to colleagues, but I discovered the world of data visualization on TikTok during the COVID lockdowns. Given the extra time I had, being between projects and full-time work, I threw myself into the community; my real introduction to which was through <i>Nightingale</i>.</p>
+	   <p>After reading the thoughts of many great data visualization minds, I decided to take a shot at writing a piece for submission in early 2022. I wrote <a href="https://nightingaledvs.com/designing-for-neurodivergent-audiences" target="_blank"><i>Designing for Neurodivergent Audiences</i></a>, with <a href="https://maryaviles.com" target="_blank">Mary Avilas</a> as the then-Nightingale Managing Editor. The whole experience was such a positive one, I found myself writing <a href="https://nightingaledvs.com/the-visual-evolution-of-the-tommy-westphall-universe" target="_blank">more and more</a>, being invited as a columnist in early 2023. During this time, not only did I work with Emily Barone on articles related to <a href="https://nightingaledvs.com/design-warning-for-nuclear-waste" target="_blank">lost stories of data viz</a>, but I began learning the inner workings of Nightingale, including its print publication.</p>
+	   <p>By the end of 2023, Emily informed me she would be stepping down as Managing Editor and recommended I try to fill the very large shoes she was leaving behind; my words, not hers. I humbly accepted, having just finished my <a href="../portfolio/in-her-own-words.html" target="_blank">masters program</a> in data analysis and visualization, and being left with both a lot of extra time and a desire to stay closely connected with those in data viz.</p>
+	   
+	   <h2>Looking back at year one</h2>
+	   
+	   <p>There’s a lot to look back on. First, the challenges I faced being a first time editor:</p>
+	   
+	   <ol>
+	   	<li>I struggled (and still do, though not as much) with balancing between over-editing, making pieces feel a bit more like myself than the author, and under-editing, making pieces feel a little too different from one another, sacrificing a unified Nightingale voice</li>
+		<li>Keeping in mind the varying level of data viz and writing experience a contributor has, needing to be ready to either assist or hone-in a piece based on such</li>
+		<li>While the editorial team is exactly that—a team—there was a great deal of expectation to roll with individual ideas and set both standards and identity</li>
+	   </ol>
+	   
+	   <p>Secondly, here are a few key takeaways from year one:</p>
+	   
+	   <ol>
+	   	<li>I had the opportunity to collaborate with and learn from some of <u><i>the</i></u> names and thought leaders in data viz; ones I only learned about in textbooks, now casually chatting with about slow cooker recipes and pie charts over Zoom</li>
+		<li>There are a lot of branches of data viz—design & technical, academic & practitioners—all of them finding a place to publish in Nightingale; collaborating on vastly different topics of interest week-to-week</li>
+		<li>Working in such a key role for a publication which reaches 26,000 monthly readers holds a lot of influence, which can both be scary and rewarding when helping to develop articles—a few going on to receive views in the hundreds of thousands and enabling genuine conversation about the future of the field</li>
+	   </ol>
+	   
+	   <p>Lastly, I wanted to share some of the articles I am extremely proud of seeing come together this first year (in no particular order):</p>
+	   
+	   <ol>
+	   	<li><a href="https://nightingaledvs.com/good-morning-data-1-the-mystery-job" target="_blank"><i>Good Morning Data #1 | The Mystery Job</i></a> by Julie Brunet aka datacitron</li>
+		<li><a href="https://nightingaledvs.com/data-design-in-focus-students-review-diverse-installations-at-venice-biennale-2023" target="_blank"><i>Data Design in Focus: Students Review Diverse Installations at Venice Biennale 2023</i></a> by David Skopec</li>
+		<li><a href="https://nightingaledvs.com/visualizing-music-through-data" target="_blank"><i>Visualizing Music Through Data: Are The Most Popular Ghost Songs Statistically More Metal?</i></a> by Mackenzie Mercer</li>
+		<li><a href="https://nightingaledvs.com/facing-shyness-with-data-art" target="_blank"><i>Facing Shyness with Data Art</i></a> by Victor Muñoz</li>
+		<li><a href="https://nightingaledvs.com/visualizing-meth-addiction" target="_blank"><i>Visualizing Meth Addiction: Data Reveals The Truth About Methamphetamine Addiction in The US</i></a> by Poe Bertholon</li>
+	   </ol>
+	   
+	   <p>—</p>
+	   <p>As I mentioned, this was not my first year with Nightingale, just in this role. I can’t say the same for <a href="https://teodorapopescu.com" target="_blank">Teo Popescu</a> and <a href="https://www.alejandra-arevalo.com" target="_blank">Alejandra Arevalo</a>. Both took on new roles in their first years with the publication, as Content Editor and Interactives Editor respectively. In Teo’s case, she took over our <a href="https://shop.datavisualizationsociety.org/products/nightingale-magazine-issue-5" target="_blank">print publication</a> during a particularly daunting and painfully difficult print cycle riddled with logistical nightmares. Alejandra carved out this new role for herself, launching a series of interactive articles for our digital publication, highlighted best, I believe, by <a href="https://data-visualization-society.github.io/interactives-parking" target="_blank">this piece</a> in collaboration with the University of Washington.</p>
+	   <p>Of course, I can’t also publicly thank <a href="https://jasonforrestagency.com" target="_blank">Jason Forrest</a>, <i>Nightingale's</i> Editor-in-Chief, whom of which served as an invaluable mentor to me in year one, and <a href="https://www.instagram.com/datacitron" target="_blank">Julie Brunet</a>, <i>Nightingale's</i> Creative Director, a genuine collaborative partner and inspiration.</p>
+	   
+	   <h2>Where we go from here</h2>
+	   
+	   <p><i>Nightingale</i> is changing, and 2025 will be a pivotal year in the publication’s <a href="https://nightingaledvs.com/five-years-of-the-nightingale-community" target="_blank">five-year history</a>. Change can be scary, but there is an excellent team behind it all and every decision made will provide more value and opportunity to our fiercely loyal and supportive community. I don’t want to share too much too early, but know: exciting things are happening.</p>
+        ]]>
+        </description>
+        <pubDate>Wed, 29 Jan 2025 00:00:00 EST</pubDate>
+        <guid isPermaLink="true">https://wcareri.com/blog/red-pen-reflections.html</guid>
+    </item>
+	
+	<item>
+        <title>Focus on Local Politics</title>
+        <link>https://wcareri.com/blog/focus-on-local-politics.html</link>
+        <description>
+            <![CDATA[
+            <p><a href="https://teodorapopescu.com" target="_blank">Teo</a> posted about this topic following the 2024 election results, but I think it’s worth bringing up again.</p>
+		<p>In an era where national news dominates so much of the online landscape, it’s easy to feel like every story has a direct impact on your life. Yet, the sheer scale of these issues—and the distance between us and the decision-makers—often makes national news feel abstract. That abstraction can quickly turn into frustration.</p>
+		<p>One way to counteract this feeling is to shift your focus to local politics, where your actions can have a tangible impact. For instance, if your local library isn’t receiving enough funding, attending a city council meeting can help bring attention to the issue. If empty lots in your area are turning into dumping grounds, a town hall discussion might spark solutions. And if you’re considering donating funds, local nonprofits often deliver more immediate and visible results than large national organizations.</p>
+		<p>While patriotism has its place, there’s something uniquely powerful about taking pride in your community. It’s a way to support the people around you and remind yourself that your voice—and your actions—matter.</p>
+            ]]>
+        </description>
+        <pubDate>Mon, 20 Jan 2025 00:00:00 EST</pubDate>
+        <guid isPermaLink="true">https://wcareri.com/blog/focus-on-local-politics.html</guid>
+    </item>
+	
+	<item>
+        <title>The Current Problem for Online Communities</title>
+        <link>https://wcareri.com/blog/the-current-problem-for-online-communities.html</link>
+        <description>
+            <![CDATA[
+            <h3>“Where are you posting now?”</h3>
+		<h3>“Did you join Bluesky?</h3>
+		<h3>“Are you going to download RedNote?”</h3>
+		
+		<p>In the past two weeks, I don’t think I have gone a day without the topic of online communities and/or the current state of <a href="digitally-downsizing.html" target="_blank">social media</a> being brought up. I’ve had conversations with people who have built online communities, and those who just enjoy being a part of them; in both cases, they’re seeing their homes be turned upside down.</p>
+		<p>I started engaging as part of online communities in 2012. I was an active member within <a href="https://nerdfighteria.com" target="_blank">Nerdfighteria</a> and <a href="https://micromarching.com" target="_blank">Micro Marching League</a>. At the time, the majority of Nerdfighteria was found on Tumblr, while Micro Marching League was most active on the site’s self-hosted forums. In both cases, there was a home, a central hub for community members of old and new to engage. Now, largely in-part due to the oversaturation of social media platforms and the fatigue we are feeling from it, it’s hard to know where online communities are calling home nowadays.</p>		
+		<p>For online community members, this can be hard to know where to begin engaging with others. Reddit remains to be the leader in online forums, seeing <a href="https://www.statista.com/statistics/1018997/number-of-reddit-users-usa" target="_blank">the most consistent userbase growth</a> over a large period of time compared to other social platforms. Some communities are turning to Discord, though this is slightly gatekept, not having a public place to explore. For Nerdfighteria, I have long since exited Tumblr and don’t engage with the community nearly as much as I used to, excluding the occasional comment section under a <a href="https://www.youtube.com/vlogbrothers" target="_blank">Vlogbrothers</a> episode. Micro Marching League’s forum is a shell of what it once was, but the community is attempting to rebuild themselves in a community-run Discord server.</p>
+		<p>For those who have started online communities, they are facing record-number departures and dwindling engagement as many leave for other platforms or are too fatigued to remain active members. I’m part of two nonprofits with engaged online communities. The first exists on Slack, and a community that once had 20,000+ members, now sees an average of two posts/day. The other also used Slack, but after their 60-member community became nearly silent, they attempted to start a Discord server to bring in new members; a move that has yet to see promising results.</p>
+		<p>These are not isolated incidents—people don’t know where to post and engage with others. I hear the same questions over and over: “Have you left Twitter, yet?” “Did you move to Bluesky?” “How about Mastodon?” “Oh, you’re sticking with Instagram?” “You deleted your Facebook entirely?” “I want to delete my social media but don’t want to abandon all the content I’ve made over the years.”</p>	
+		<p>I’ve made the move to blogging and reading RSS feeds. I did this because a) I have social media fatigue from joining and testing a number of social media platforms over the past six months, b) I want control over the content I put out, and there’s no better way than hosting it on a personal website, c) RSS feeds prevent me from wasting hours on an infinite scroll and d) I’ve surprisingly found a stronger community through this approach than I have the past few years on social media. It started when I came across <a href="https://manuelmoreale.com" target="_blank">Manu's</a> <a href="https://peopleandblogs.com" target="_blank"><i>People and Blogs</i></a> series. This series led me down a rabbit hole of other bloggers, getting a taste of their work and then adding my favorites to an RSS feed. I’ve been able to engage with people on their personal websites and people have been able to find me through mine.</p>
+		<p>There was a time in internet history when blogs and message boards were king for online communities, but after social media’s 20-year grasp on trying to provide us homes for content and conversation, it’s hard to remember the alternative—a more simplistic, genuine approach to meeting others online. Maybe it’s time we all pause on searching for a new home for our communities, and instead work on building our own.</p>
+            ]]>
+        </description>
+        <pubDate>Wed, 15 Jan 2025 00:00:00 EST</pubDate>
+        <guid isPermaLink="true">https://wcareri.com/blog/the-current-problem-for-online-communities.html</guid>
+    </item>
+	
+	<item>
+        <title>Sounding Like Somebody Else</title>
+        <link>https://wcareri.com/blog/sounding-like-somebody-else.html</link>
+        <description>
+            <![CDATA[
+            <p>I’ve been a writer for as long as I can remember. Not to brag, but I was the only student in my elementary school to ever win the Best Writer Award more than twice. Maybe it’s the curriculum I followed through grade school, but there was always an emphasis of reading works of the greats—Hemingway, Steinbeck, Twain, Fitzgerald—and trying to be like them. I think a lot of writers may fall into this trap, but trying to sound like other authors is what can make writing so difficult. The problem with this is: we shouldn’t be trying to sound like somebody else.</p>
+		<p>For the better part of a decade, I’ve been working on finishing and publishing a novel. I have a completed first draft of one, which is currently shelved, and a near-complete first draft of a second. For the purposes of this post, I’m going to focus on the latter. The novel I’m working on has been restarted a number of times. I’ve changed the perspective, starting point, and tone multiple times. Unfortunately, I’ve found myself not doing this because I think it will make the story better, but because it will make me sound like someone else—a Pulitzer or Booker Prize winner. Once, I read an online forum where people swore up and down that only immature writers use first perspective to tell a story. That night, I started rewriting the draft, following the same tale, but from third person.</p>		
+		<p>In the past month, I’ve heard two great pieces of writing advice: (1) just keep writing (2) stop trying to sound like somebody else. Both have greatly improved my outlook on my own writing.</p>
+		
+		<h2>Just keep writing</h2>
+		
+		<p>Don’t stop to go back and read from the beginning until it’s over. The first draft of a novel is you telling yourself the story. Don’t pause your progress to return and fix a subplot or dialogue. Instead, if you must, make a separate list of things to return to once you’ve completed the first draft. If you don’t like the dialogue between two characters, note it to fix later. If a scene should be added to make two story points flow better, note it to fix later.</p>
+		<p>When I first heard this piece of advice, I couldn’t help but think of the George R.R. Martin conversation had with Stephen King:</p>	
+		<p><b>Martin:</b> How the fuck do you write so many books so fast? I think, "Oh, I've had a really good six months, I've finished three chapters." And you've finished three books in that time.</p>
+		<p><b>King:</b> Here's the thing, okay? There are books, and there are books. The way that I work, I try to get out there and I try to get six pages a day. So, with a book like End of Watch, and ... when I'm working I work every day--three, four hours, and I try to get those six pages, and I try to get them fairly clean. So if the manuscript is, let's say, 360 pages long, that's basically two months work. ... But that's assuming it goes well.</p>
+		<p><b>Martin:</b> And you do hit six pages a day?</p>
+		<p><b>King:</b> I usually do.</p>
+		<p><b>Martin:</b> You don't ever have a day where you sit down there and it's like constipation? And you write a sentence and you hate the sentence, and you check your email and you wonder if you had any talent after all? And maybe you should have been a plumber? (Laughs) Don't you have days like that?</p>
+		<p><b>King:</b> No. I mean, there's real life, I could be working away, and something comes up and you have to get up ... but mostly I try to get the six pages in.</p>
+		
+		<h2>Our own voice</h2>
+		
+		<p>We know our story better than anyone else, and we very might well know how to tell it better than anyone else, too. What I used to do was read the works of my favorite authors—Henri Bosco, Mark Z. Danielewski, Hanya Yanagihara—and try to mimic not their pacing or other valuable elements, but their tone. This was a bad idea for a number of reasons: it wasted my time trying to match their tone, combining their styles made for a not-so-great, hodge-podge of a reading experience, losing my own voice in the process.</p>
+		<p>I think this came down to a lack of confidence in my own writing. I wanted to sound like a great writer, so I tried to mimic great writers, when I should have just been looking for inspiration to better my own work.</p>
+		<p>When I stopped trying to replicate and relied on my own style, my own voice, I found myself writing so much faster. I was soaring through a first draft the way some others do. Not saying speed is a necessary factor in writing a first draft—Donna Tartt would greatly disagree with this notion, taking a decade between each novel—but I like that I’m not wasting time on replication, rather telling myself the story in the way I want to hear it.</p>
+		<p>Many say there are no such things as original thoughts anymore, everything is pulling inspiration from something else. Whether you believe it or not, there is an oversaturation of content being sent out into the public sphere, and it’s hard to have an idea you haven’t at least seen a few similarities within elsewhere. For a lot of writers, we want to create a work which goes beyond us. At least for me, I like the idea of having a work that is taught critically in classrooms. I don’t strive for financial gain as much as I do cultural longevity. Is this bold and pretentious? Probably at least a little. Maybe I’m just chasing that high of winning the Best Writer Award more than twice in grade school.</p>
+            ]]>
+        </description>
+        <pubDate>Wed, 8 Jan 2025 00:00:00 EST</pubDate>
+        <guid isPermaLink="true">https://wcareri.com/blog/sounding-like-somebody-else.html</guid>
+    </item>
+	
+	<item>
+        <title>A Rabbit Hole of New Questions</title>
+        <link>https://wcareri.com/blog/a-rabbit-hole-of-new-questions.html</link>
+        <description>
+            <![CDATA[
+            <h3>“Every question leads to new answers, new discoveries, and new smarter questions.”</h3>
+		<h3></h3> — Bill Nye</h3>
+		<p>I’ve <a href="when-the-data-is-gone.html" target="_blank">previously written about</a> how my career started in one place, and as I’ve explored new realms, I’ve unlocked new areas of interest.</p>
+		<p>Starting off as a communications major in community college, I was fascinated with, theoretically, how people communicate and share stories with each other. This led me to majoring in public relations, sticking with storytelling but doing so verbally and through written language. I then discovered data visualization, which is finding stories in large data sets and communicating said information with diverse audiences.</p>
+		<p>Now, this is where I’ve started to deviate a bit more in the past year.</p>
+		<p>Most certainly influenced by my friends who are more tech-centered—combined with being around data all day long—I’ve found myself with a deepening interest in data archiving and database systems. Do I have any background in server infastructure or data systems? No. But I’ve started to focus some time and energy into learning more about them.</p>
+		<p>I started by <a href="seymour-and-the-server.html" target="_blank">tinkering</a> with a ZimaBlade 7700 and building a home media server, digitizing my physical media. This taught me some basic Linux and data infastructure. I’ve started to expand, using server space to create a home NAS and learn more about how different devices on the network can engage with it. Next, I want to expand by possibly building a custom setup and playing around with Linux. Am I focusing in the wrong areas? Any advice? <a
+                href="mailto:wcareri@gmail.com" target="_blank">Reach out</a>, I’m always happy to hear people out.</p>
+		<p>While I’ve certainly deviating from my storytelling path, I’m excited to be going in a direction I’ve never stepped foot in. I’ve been a creative all my life, so when I went into a creative-driven career, it wasn’t that big of a stretch. This is completely new to me. But you know what Shakespeare said: “Jack of all trades, master of none, but oftentimes better than a master of one.“</p>
+            ]]>
+        </description>
+        <pubDate>Fri, 3 Jan 2025 00:00:00 EST</pubDate>
+        <guid isPermaLink="true">https://wcareri.com/blog/a-rabbit-hole-of-new-questions.html</guid>
+    </item>
+
+</channel>
+</rss>

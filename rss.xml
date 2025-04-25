@@ -6,8 +6,42 @@
     <description>A collection of thoughts while working at the intersection of data, design, and dialogue.</description>
     <language>en-us</language>
     <pubDate>Wed, 16 Apr 2025 17:39:00 EDT</pubDate>
-    <lastBuildDate>Wed, 16 Apr 2025 17:39:00 EDT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 20:54:00 EDT</lastBuildDate>
 
+	<item>
+        <title>Different Under the Hood</title>
+        <link>https://wcareri.com/blog/different-under-the-hood.html</link>
+        <description>
+            <![CDATA[
+            <p>This is most likely the last piece of meta-blogging I'll do for a while.</p>
+		<p>This site has been hosted and built using a number of sites and platforms. From 2015 - 2021, this site was hosted on WIX, with the designs mostly done by scratch using a blank template. This was fine for a while, I was more interested in the design aspect of web design, anyway.</p>
+		<p>In 2021, I switched over to Webflow. This was a space where I could do more advanced animations and features, while it also serving as a better CMS than WIX. Webflow also allows you to play around with the code more, so while I did very little changing under the hood, I was able to look at it and understand what was happening behind the scenes.</p>
+		<p>In 2024, I made another switch, this time to Cargo. Cargo was more minimalist and was perfect for what I was looking to do—showcase my work in a straight-forward way while not being too flashy. Unfortunately, it wasn't long before I wanted to leave Cargo; not for another platform, but to design my site from scratch.</p>
+		<p>Similar to Webflow, Cargo allows you to look under the hood and see all the source code for your website. While you can't export it, you can copy and paste, tweaking from there—this is what I did. In a race-against-the-clock to design my code before my yearly subscription renewed, I began building my site on my local device, preparing to have it hosted on GitHub Pages.</p>
+		<p>My coding experience prior to this was a few contracted jobs which required me edit preexisting HTML and CSS on a client's website; never building from scratch. Sure, Cargo helped with the CSS, but much of the HTML had to be completely redone. This wasn't a deal breaker because I planned on giving my site some visual tweaks anyway.</p>
+		<p>The HTML was pretty straight forward, since my site doesn't utilize anything too complex—it's entirely HTML and CSS other than the content filter on my portfolio page which uses some JavaScript. This meant I could simply lay out everything I wanted to and, with my Cargo site on one side of my monitor and my in-development site in the other, I could look at both, see what was off, and tweak the code. I did this over and over again until it was a near identical mirror of each other.</p>
+		<p>From here, I wanted to edit the design a tad. Primarily the header—I previously didn't have a header, and instead have a few navigation buttons on the bottom of each page. For this site, I wanted to bring it back up to the top and feature my logo, as well. I also wanted to add some additional features I couldn't have in Cargo, such as a filterable portfolio page and an RSS feed for my blog posts. This is something so simple, I'm surprised Cargo didn't have it, but as I've spent most of the past year leaving social media and switching to RSS feeds, I wanted to join in on the fun, as well.</p>
+		<p>Once I was done, I just had to host on GitHub and connect my custom domain. This wasn't too difficult, despite having never used GitHub before. Within two hours—most of that time waiting for my domain to verify the DNS record—I was all set.</p>
+		
+		<h2>Now what?</h2>
+		
+		<p>The site is still not done, but I don't think any website is ever done. I have a wishlist of features and things to tweak:</p>
+		
+		<ol>
+	   	<li>Updating the slugs so they don't include '.html'</li>
+		<li>Making the home page a bit more visually appealing</li>
+		<li>Cleaning up some code I threw together, but could benefit from more cohesive organization</li>
+	   </ol>
+	   
+	   <br>
+	   
+	   <p>I'm proud of this site and how far it's come, despite it looking like something a first-semester web design student might design for their final project. If you're someone who has thoughts on how I could improve this site, please <a href="mailto:wcareri@gmail.com" target="_blank">reach out</a>.</p>
+            ]]>
+        </description>
+        <pubDate>Thu, 24 Apr 2025 00:00:00 EST</pubDate>
+        <guid isPermaLink="true">https://wcareri.com/blog/different-under-the-hood.html</guid>
+    </item>
+	
     <item>
         <title>Easing the Pace</title>
         <link>https://wcareri.com/blog/easing-the-pace.html</link>

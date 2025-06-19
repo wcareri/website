@@ -45,7 +45,6 @@ html {
 .header-nav div {
   display: flex;
   justify-content: space-around;
-  align-items: center;
   width: 100%;
   padding: 3rem 0;
 }
@@ -523,20 +522,9 @@ gallery-justify .caption {
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-#filters button:first-child {
-    background-color: #2C251D;
-    color: white;
-    border: 1px solid #2C251D;
-}
-
 #filters button:hover {
     background-color: #2C251D;
     color: white;
-}
-
-#filters button:focus {
-    outline: none;
-    border-width: 2px;
 }
 
 #filters button.active {

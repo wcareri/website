@@ -6,7 +6,32 @@
     <description>A collection of thoughts while working at the intersection of data, design, and dialogue.</description>
     <language>en-us</language>
     <pubDate>Wed, 16 Apr 2025 17:39:00 EDT</pubDate>
-    <lastBuildDate>Wed, 28 May 2025 00:14:50 EST</lastBuildDate>
+    <lastBuildDate>Tue, 24 June 2025 00:10:15 EST</lastBuildDate>
+
+    <item>
+        <title>Building a Virtual Library</title>
+        <link>https://wcareri.com/blog/building-a-virutal-library</link>
+        <description>
+            <![CDATA[
+            <h1>Building a Virutal Library</h1>
+		
+		<p>You don't always know where inspiration finds you, but sometimes it slaps you in the face.</p>
+        <p>I've been a fan of <a href="https://www.manuelmoreale.com" target="_blank">Manu</a>'s writing and projects for the past eight months or so, particularly his "<a href="https://www.peopleandblogs.com" target="_blank">People and Blogs</a>" series. I've been slowly exiting social media for some time and this series helped reinvigorate my love of RSS feeds, independent blogs, and personal websites. This made it all the more exciting when I <a href="https://www.manuelmoreale.com/when-a-side-project-finds-you" target="_blank">read back in April</a> that Manu was taking over <a href="https://www.blogroll.org/" target="_blank">blogroll.org</a>.</p>
+        <p>I had not heard of <a href="https://www.blogroll.org/" target="_blank">blogroll.org</a> prior to Manu becoming the new custodian of the site, but I found the concept of a simple, sleek, well-organized collection of blogs highly valuable for discovering new voices. So much so, I took my inspiration from blogroll.org and made a more niche version for blogs and newsletters dedicated to data visualization.</p>
+        <p>For nearly a year, <a href="https://www.jasonforrestftw.com/" target="_blank">Jason</a> and I have spoken about a lack of space for the data viz community, with people constantly in-flux for where they call social media home, and Slack/Discord servers are becoming less active by the week. As a result, it's hard to keep up with your favorite designers and thought leaders while newer voices have no place to share their own thoughts.</p>
+        <p>Last week, after another conversation about the data viz community no longer having a space, something clicked and I remembered blogroll.org, seeing an immediate opportunity to build something similar, and ideally, begin to help solve a problem.</p>
+        <p>I'll go into technical details on the project page, but in short: <a href="https://www.vizdexproject.com/" target="_blank">VizDex</a> was created within 72 hours and has already received a fair amount of contributions to making it grow.</p>
+
+        <a href="https://www.vizdexproject.com" target="_blank"> <img src="../assets/images/blog/virutal-library-vizdex.png" alt="A laptop sitting on a small platform, displaying the homepage of VizDex dot com. The website is dark grey with minimal type." style="width:100%; height:100%;"> </a>
+    
+        <p>I want this project to serve as a place for people to discover new voices, rediscover veteran voices, and possibly start their own platform for sharing ideas.</p>
+        <p>I'm proud of this project, being only my second website designed using explicitly web code—as opposed to builders like WIX, WordPress, Squarespace—with the other being this site. I'm always taking recommendations and suggestions on how to improve <a href="https://www.vizdexproject.com/" target="_blank">VizDex</a>, so feel free to <a href="mailto:wcareri@gmail.com" target="_blank">reach out</a> if you have an idea.</p>
+		
+            ]]>
+        </description>
+        <pubDate>Tue, 24 June 2025 00:10:15 EST</pubDate>
+        <guid isPermaLink="true">https://wcareri.com/blog/building-a-virutal-library</guid>
+    </item>
 
 	<item>
         <title>Introducing Myself</title>

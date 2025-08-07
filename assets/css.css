@@ -276,7 +276,7 @@ a:active,
 }
 
 .title-text {
-  font-size: 120px;
+  font-size: clamp(36px, 10vw, 120px);
   font-weight: 400;
   color: #292929;
   font-family: 'Broadway Regular';
@@ -284,12 +284,6 @@ a:active,
   line-height: 1;
   letter-spacing: 0.005em;
   display: block;
-}
-
-@media (max-width: 768px) {
-  .title-text {
-    font-size: 85vw;
-  }
 }
 
 h1 {
@@ -622,4 +616,5 @@ li.lineated {
 
 .footer-content .caption a:hover {
     text-decoration: underline;
+
 }

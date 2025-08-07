@@ -1,6 +1,23 @@
 document.addEventListener('DOMContentLoaded', function() {
     const filterButtons = document.querySelectorAll('#filters button');
-    const portfolioItems = document.querySelectorAll('#gallery li');
+    const portfolioItems = document.querySelectorAll('ul.gallery li');
+
+    const countProjects = (category) => {
+        if (category === 'all') {
+            return portfolioItems.length;
+        }
+        return Array.from(portfolioItems).filter(item => {
+            const itemCategories = item.getAttribute('data-category').split(' ');
+            return itemCategories.includes(category);
+        }).length;
+    };
+
+    filterButtons.forEach(button => {
+        const category = button.getAttribute('data-category');
+        const count = countProjects(category);
+        const buttonText = button.textContent;
+        button.innerHTML = `${buttonText}<sup>${count}</sup>`;
+    });
 
     if (filterButtons.length > 0) {
         filterButtons[0].classList.add('active');
@@ -15,7 +32,6 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     }
-
 
     filterButtons.forEach(button => {
         button.addEventListener('click', function() {

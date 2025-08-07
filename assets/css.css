@@ -275,19 +275,19 @@ a:active,
     display: table;
 }
 
-title {
-    font-size: 120px;
-    font-weight: 400;
-    color: #292929;
-    font-family: Broadway Regular;
-    font-style: normal;
-    line-height: 1;
-    letter-spacing: 0.005em;
-    display: block;
+.title-text {
+  font-size: 120px;
+  font-weight: 400;
+  color: #292929;
+  font-family: 'Broadway Regular';
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: 0.005em;
+  display: block;
 }
 
 @media (max-width: 768px) {
-  title {
+  .title-text {
     font-size: 85vw;
   }
 }

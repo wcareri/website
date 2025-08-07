@@ -286,6 +286,12 @@ title {
     display: block;
 }
 
+@media (max-width: 768px) {
+  title {
+    font-size: 85vw;
+  }
+}
+
 h1 {
     font-size: 36px;
     font-weight: 400;
@@ -296,12 +302,6 @@ h1 {
     letter-spacing: 0.005em;
     display: block;
     text-align: center;
-}
-
-@media (max-width: 768px) {
-  h1 {
-    font-size: 85vw;
-  }
 }
 
 h2 {

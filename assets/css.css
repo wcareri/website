@@ -143,7 +143,7 @@ html {
     .header-nav {
         flex-direction: column;
         align-items: center;
-        width: 90vw;
+        width: 85vw;
         padding: 1.5rem 0;
         gap: 0;
         position: fixed;
@@ -265,7 +265,7 @@ a:active,
 
 @media only screen and (max-width: 768px) {
   .content {
-    width: 90vw;
+    width: 85vw;
   }
 }
 
@@ -296,6 +296,12 @@ h1 {
     letter-spacing: 0.005em;
     display: block;
     text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+  h1 {
+    font-size: 85vw;
+  }
 }
 
 h2 {
@@ -491,6 +497,13 @@ li.lineated {
     background-color: #292929;
     color: #FFFFFF;
     border: 1px solid #292929;
+}
+
+@media only screen and (max-width: 768px) {
+  #filters {
+    width: 85vw;
+    margin: 0 auto;
+  }
 }
 
 /* GALLERY */

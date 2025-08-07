@@ -1,23 +1,13 @@
 document.addEventListener('DOMContentLoaded', function() {
-    const currentYear = new Date().getFullYear(); // Get the current year
-    const startYear = 2015; // Your starting copyright year
-
-    // Construct the year string
-    let yearRange;
-    if (startYear === currentYear) {
-        yearRange = currentYear.toString();
-    } else {
-        yearRange = `${startYear} - ${currentYear}`;
-    }
+    const currentYear = new Date().getFullYear();
 
     const footerHTML = `
         <footer style="text-align: center;">
-            <span class="footer">
-                <div style="text-align: center;">
-                    <p class="caption">© ${yearRange} | Designed by William Careri</p>
-                </div>
-                <p><span style="font-size: calc(var(--font-scale) * var(--font-size)); font-weight: 400; letter-spacing: 0em;"> </span></p>
-            </span>
+            <div class="footer-content">
+                <p class="caption">
+                    © ${currentYear}&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Designed by&nbsp;<a href="https://www.wcareri.com/about" style="text-decoration: none; color: inherit;">William Careri</a>
+                </p>
+            </div>
         </footer>
     `;
 

@@ -1,27 +1,50 @@
 document.addEventListener('DOMContentLoaded', function() {
     const headerHTML = `
         <header class="fixed-header">
-            <nav class="header-nav">
-                <div>
-                    <a href="https://www.wcareri.com" rel="home">HOME</a>
-                    <a href="https://www.wcareri.com/about" rel="about">ABOUT</a>
-                    <img src="https://www.wcareri.com/assets/images/index/logo.png" alt="A Serif W and C typographic logo" class="header-logo">
-                    <a href="https://www.wcareri.com/portfolio" rel="Portfolio">PORTFOLIO</a>
-                    <a href="https://www.wcareri.com/blog" rel="blog">BLOG</a>
+            <nav class="header-nav" id="headerNav">
+                <a href="https://wcareri.com">
+                    <img src="https://www.wcareri.com/assets/images/index/logo.png" alt="A Sans-Serif WC typographic logo" class="header-logo">
+                </a>
+                <div class="hamburger-menu" id="hamburgerMenu">
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                </div>
+                <div class="header-buttons" id="headerButtons">
+                    <a href="https://wcareri.com/portfolio" rel="portfolio">Portfolio</a>
+                    <a href="https://wcareri.com/blog" rel="blog">Blog</a>
+                    <a href="https://wcareri.com/about" rel="about">About</a>
                 </div>
             </nav>
         </header>
     `;
 
-    // Find a specific element where you want to insert the header
-    // For example, you could have a div with id="header-placeholder" in your HTML
     const headerPlaceholder = document.getElementById('header-placeholder');
 
     if (headerPlaceholder) {
         headerPlaceholder.innerHTML = headerHTML;
     } else {
-        // As a fallback, you could prepend it to the body
-        // This is less ideal as it might affect layout, but works if no placeholder
         document.body.insertAdjacentHTML('afterbegin', headerHTML);
+    }
+
+    const hamburgerMenu = document.getElementById('hamburgerMenu');
+    const headerButtons = document.getElementById('headerButtons');
+    const headerNav = document.getElementById('headerNav');
+
+    if (hamburgerMenu && headerButtons && headerNav) {
+        hamburgerMenu.addEventListener('click', function() {
+            headerButtons.classList.toggle('active');
+            hamburgerMenu.classList.toggle('open');
+            headerNav.classList.toggle('menu-open');
+        });
+
+        const headerLinks = headerButtons.querySelectorAll('a');
+        headerLinks.forEach(link => {
+            link.addEventListener('click', () => {
+                headerButtons.classList.remove('active');
+                hamburgerMenu.classList.remove('open');
+                headerNav.classList.remove('menu-open');
+            });
+        });
     }
 });
